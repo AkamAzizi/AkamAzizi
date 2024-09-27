@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a second-year Applied AI student at Mälardalens Unive
 - **Building Scalable Systems:** I love working on projects that can grow and scale over time.
 
 ## 🔗 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/akam-azizi-932897213)
+- [LinkedIn](https://www.linkedin.com/in/akam-azizi-932897213/)
 - [Email](mailto:akam.azizi33@gmail.com)
 
 ---
