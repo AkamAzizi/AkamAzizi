@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a second-year Applied AI student at Mälardalens Unive
 ## 👨‍💻 My Projects:
 - **Strängnäs Salong** (Barbershop Queue Management App): A full-stack web app that helps manage barbershop queues with automated email notifications. Developed using Flask and Python.
 - **[Flappy Bird Clone](https://github.com/akamazizi/Flappy-bird-Clone)**: A fun Pygame project with a custom scoring system!
-- - **[To-Do List](https://github.com/akamazizi/to-do-list)**: A graphical To-Do List application built with Python and Tkinter.
+- **[To-Do List](https://github.com/akamazizi/to-do-list)**: A graphical To-Do List application built with Python and Tkinter.
 - **Real-Life Challenge Competition App:** A work-in-progress app where users can create and join real-life challenges (e.g., fitness, learning) with AI-driven rankings and performance suggestions.
 
 ## 🚀 What I'm Passionate About:
