@@ -2,6 +2,9 @@
 
 Welcome to my GitHub! I'm a second-year Applied AI student at Mälardalens University with a passion for problem-solving and building innovative tech solutions. I love working with Python and have experience in both front-end and back-end development. Here's a bit about me:
 
+## 🌐 Portfolio Website
+You can view my portfolio live at: [AkamAzizi.github.io](https://AkamAzizi.github.io)
+
 ## 🛠️ Tech Stack & Skills:
 - **Languages:** Python, JavaScript, C#, SQL
 - **Frameworks & Libraries:** Flask, React, Node.js
