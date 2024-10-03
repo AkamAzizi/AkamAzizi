@@ -9,7 +9,7 @@ You can view my portfolio live at: [AkamAzizi.github.io](https://AkamAzizi.githu
 - **Languages:** Python, JavaScript, C#, SQL
 - **Frameworks & Libraries:** Flask, React, Node.js
 - **Databases:** PostgreSQL, SQLite
-- **Tools & Platforms:** Git, Docker, AWS, Heroku
+- **Tools & Platforms:** Git, Heroku
 - **Others:** API Development, RESTful Services, Data Structures, Algorithms
 
 ## 🌱 Currently Learning:
