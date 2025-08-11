@@ -1,32 +1,50 @@
-# 👋 Hey there, I'm Akam!
+👋 Hey there, I'm Akam!
 
-Welcome to my GitHub! I'm a second-year Applied AI student at Mälardalens University with a passion for problem-solving and building innovative tech solutions. I love working with Python and have experience in both front-end and back-end development. Here's a bit about me:
+Welcome to my GitHub! I’m a third-year Applied AI student at Mälardalens University, passionate about problem-solving and building innovative tech solutions. I love working with Python and have hands-on experience across both front-end and back-end development. Here’s a bit about me:
+🌐 Portfolio Website
 
-## 🌐 Portfolio Website
-You can view my portfolio live at: [AkamAzizi.github.io](https://AkamAzizi.github.io)
+Check out my portfolio live at: AkamAzizi.github.io
+🛠️ Tech Stack & Skills
 
-## 🛠️ Tech Stack & Skills:
-- **Languages:** Python, JavaScript, C#, SQL
-- **Frameworks & Libraries:** Flask, React, Node.js
-- **Databases:** PostgreSQL, SQLite
-- **Tools & Platforms:** Git, Heroku
-- **Others:** API Development, RESTful Services, Data Structures, Algorithms
+    Languages: Python, JavaScript, C#, SQL, TypeScript, Java
 
-## 🌱 Currently Learning:
-- **Machine Learning & AI:** Applying AI concepts to real-world problems
-- **React Native:** Building mobile apps for iOS and Android
-- **Cloud Computing:** Exploring AWS services
+    Frameworks & Libraries: Flask, React, React Native
 
-## 👨‍💻 My Projects:
-- **Strängnäs Salong** (Barbershop Queue Management App): A full-stack web app that helps manage barbershop queues with automated email notifications. Developed using Flask and Python.
-- **[Flappy Bird Clone](https://github.com/akamazizi/Flappy-bird-Clone)**: A fun Pygame project with a custom scoring system!
-- **[To-Do List](https://github.com/akamazizi/to-do-list)**: A graphical To-Do List application built with Python and Tkinter.
-- **Real-Life Challenge Competition App:** A work-in-progress app where users can create and join real-life challenges (e.g., fitness, learning) with AI-driven rankings and performance suggestions.
+    Databases: PostgreSQL, SQLite
 
-## 🚀 What I'm Passionate About:
-- **AI & Machine Learning:** Harnessing the power of AI to solve real-world problems.
-- **Teaching & Mentorship:** I enjoy sharing knowledge and mentoring others, currently looking forward to leading programming sessions with Hello World!.
-- **Building Scalable Systems:** I love working on projects that can grow and scale over time.
+    Tools & Platforms: Git, Heroku, AppWrite
+
+    Others: API Development, RESTful Services, Data Structures, Algorithms
+
+🌱 Currently Learning
+
+    Machine Learning & AI: Applying AI concepts to real-world challenges
+
+    React Native: Building cross-platform mobile apps for iOS and Android
+
+    Cloud Computing: Exploring AWS and cloud deployment strategies
+
+👨‍💻 My Projects
+
+    Brazilian Jiu-Jitsu Roadmap App: An ongoing project helping BJJ beginners follow a structured curriculum with video/text techniques, progress tracking, and daily drills — designed to motivate and guide consistent growth.
+
+    Strängnäs Salong (Barbershop Queue Management App): A full-stack web app that streamlines barbershop queue handling with automated email notifications, built with Flask and Python.
+
+    Flappy Bird Clone: A fun Pygame remake featuring a custom scoring system.
+
+    To-Do List: A graphical task management app using Python and Tkinter.
+
+    Real-Life Challenge Competition App: Work in progress — a social app where users create and join real-life challenges, featuring AI-powered rankings and performance feedback.
+
+🚀 What I'm Passionate About
+
+    AI & Machine Learning: Leveraging AI to create meaningful, impactful solutions.
+
+    Teaching & Mentorship: Sharing knowledge and mentoring aspiring programmers; currently leading programming sessions at Hello World!.
+
+    Building Scalable Systems: Designing projects that grow sustainably and perform reliably.
+
+🔗 Let’s Connect!
 
 ## 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/akam-azizi-932897213/)
