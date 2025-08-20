@@ -58,8 +58,6 @@ Algorithm Design • API Development • RESTful Services • Machine Learning
 
 ## 📈 GitHub Stats
 
-![Akam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkamAzizi&show_icons=true&theme=dark&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkamAzizi&layout=compact&theme=dark)
 
 ## 🌐 Portfolio & Contact
