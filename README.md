@@ -1,57 +1,82 @@
-👋 Hey there, I'm Akam!
+# 👋 Hey there, I'm Akam Azizi!
 
-Welcome to my GitHub! I’m a third-year Applied AI student at Mälardalens University, passionate about problem-solving and building innovative tech solutions. I love working with Python and have hands-on experience across both front-end and back-end development. Here’s a bit about me:
-🌐 Portfolio Website
+**Applied AI Student | Software Developer | Problem Solver**
 
-Check out my portfolio live at: AkamAzizi.github.io
-🛠️ Tech Stack & Skills
+Welcome to my GitHub! I'm a third-year Applied AI student at Mälardalens University with a passion for building innovative tech solutions that solve real-world problems. I specialize in Python development and have hands-on experience across the full development stack.
 
-    Languages: Python, JavaScript, C#, SQL, TypeScript, Java
+## 🚀 What I'm About
 
-    Frameworks & Libraries: Flask, React, React Native
+- 🎓 **Applied AI Student** at Mälardalens University
+- 💻 **Full-Stack Developer** with expertise in Python, JavaScript, and modern frameworks
+- 🧠 **AI Enthusiast** applying machine learning to practical challenges
+- 👨‍🏫 **Mentor & Teacher** leading programming sessions at Hello World!
+- 🔍 **Currently seeking** opportunities in Applied AI and software development
 
-    Databases: PostgreSQL, SQLite
+## 🛠️ Tech Stack
 
-    Tools & Platforms: Git, Heroku, AppWrite
+**Languages**
+```
+Python • JavaScript • TypeScript • C# • Java • SQL
+```
 
-    Others: API Development, RESTful Services, Data Structures, Algorithms
+**Frameworks & Libraries**
+```
+Flask • React • React Native • Tkinter
+```
 
-🌱 Currently Learning
+**Databases & Tools**
+```
+PostgreSQL • SQLite • Git • Heroku • AppWrite
+```
 
-    Machine Learning & AI: Applying AI concepts to real-world challenges
+**Specialties**
+```
+Algorithm Design • API Development • RESTful Services • Machine Learning
+```
 
-    React Native: Building cross-platform mobile apps for iOS and Android
+## 🎯 Featured Projects
 
-    Cloud Computing: Exploring AWS and cloud deployment strategies
+### 🧩 **Algorithm Implementations**
+- **[Sudoku Solver](https://github.com/akamazizi/sudoku-solver)** - Backtracking algorithm with performance analysis
+- **[Knapsack Problem Solver](https://github.com/akamazizi/knapsack-solver)** - BFS vs DFS comparison study
+- **[MiniMax Mancala AI](https://github.com/akamazizi/minimax-mancala-ai)** - Game AI with alpha-beta pruning
 
-👨‍💻 My Projects
+### 🏢 **Business Applications**
+- **[Barbershop Queue Management](https://github.com/AkamAzizi/barbershop-queue-app)** - Full-stack Flask app with automated notifications
+- **[Task Management App](https://github.com/akamazizi/to-do-list)** - Python GUI application with Tkinter
 
-    Brazilian Jiu-Jitsu Roadmap App: An ongoing project helping BJJ beginners follow a structured curriculum with video/text techniques, progress tracking, and daily drills — designed to motivate and guide consistent growth.
+### 🎮 **Game Development**
+- **[Flappy Bird Clone](https://github.com/akamazizi/Flappy-bird-Clone)** - Pygame implementation with custom features
+- **[Snake Game](https://github.com/AkamAzizi/SnakeGame)** - Classic arcade game recreation
 
-    Strängnäs Salong (Barbershop Queue Management App): A full-stack web app that streamlines barbershop queue handling with automated email notifications, built with Flask and Python.
+## 🌱 Currently Learning & Building
 
-    Flappy Bird Clone: A fun Pygame remake featuring a custom scoring system.
+- **Machine Learning**: Implementing AI solutions for real-world applications
+- **React Native**: Cross-platform mobile development
+- **Cloud Computing**: AWS deployment and scalable architecture
+- **Advanced Algorithms**: Exploring optimization and AI algorithms
 
-    To-Do List: A graphical task management app using Python and Tkinter.
+## 📈 GitHub Stats
 
-    Real-Life Challenge Competition App: Work in progress — a social app where users create and join real-life challenges, featuring AI-powered rankings and performance feedback.
+![Akam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkamAzizi&show_icons=true&theme=dark&count_private=true)
 
-🚀 What I'm Passionate About
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkamAzizi&layout=compact&theme=dark)
 
-    AI & Machine Learning: Leveraging AI to create meaningful, impactful solutions.
+## 🌐 Portfolio & Contact
 
-    Teaching & Mentorship: Sharing knowledge and mentoring aspiring programmers; currently leading programming sessions at Hello World!.
+- 🌐 **Portfolio**: [AkamAzizi.github.io](https://AkamAzizi.github.io)
+- 💼 **LinkedIn**: [akam-azizi-932897213](https://www.linkedin.com/in/akam-azizi-932897213/)
+- 📧 **Email**: [akam.azizi33@gmail.com](mailto:akam.azizi33@gmail.com)
 
-    Building Scalable Systems: Designing projects that grow sustainably and perform reliably.
+## 💡 Fun Facts
 
-🔗 Let’s Connect!
-
-## 🔗 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/akam-azizi-932897213/)
-- [Email](mailto:akam.azizi33@gmail.com)
+- 🥋 Brazilian Jiu-Jitsu practitioner (working on a BJJ training app!)
+- 📚 Active in open-source community
+- 🎯 Passionate about teaching and mentoring new developers
+- 🌍 Based in Västerås, Sweden
 
 ---
 
-"Technology is best when it brings people together." – Matt Mullenweg
+> *"The best way to predict the future is to create it."* – Alan Kay
 
-
+**Open to collaborations, internships, and full-time opportunities in AI/Software Development!**
