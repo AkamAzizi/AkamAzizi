@@ -42,6 +42,7 @@ Algorithm Design • API Development • RESTful Services • Machine Learning
 - **[MiniMax Mancala AI](https://github.com/akamazizi/minimax-mancala-ai)** - Game AI with alpha-beta pruning
 
 ### 🏢 **Business Applications**
+- **[AI Resume Analyzer](https://github.com/AkamAzizi/ai-resume-analyzer)** - Full-stack FastAPI + React app that analyzes resumes against job descriptions with match scoring and keyword extraction  
 - **[Barbershop Queue Management](https://github.com/AkamAzizi/barbershop-queue-app)** - Full-stack Flask app with automated notifications
 - **[Task Management App](https://github.com/akamazizi/to-do-list)** - Python GUI application with Tkinter
 
