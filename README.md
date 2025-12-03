@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Akam Azizi!
+# Hi, I'm Akam Azizi!
 
 **Applied AI Student | Software Developer | Problem Solver**
 
@@ -70,13 +70,11 @@ Algorithm Design • API Development • RESTful Services • Machine Learning
 
 ##  Fun Facts
 
-- 🥋 Brazilian Jiu-Jitsu practitioner (working on a BJJ training app!)
-- 📚 Active in open-source community
-- 🎯 Passionate about teaching and mentoring new developers
-- 🌍 Based in Västerås, Sweden
+- Brazilian Jiu-Jitsu practitioner (working on a BJJ training app!)
+- Active in open-source community
+- Passionate about teaching and mentoring new developers
+- Based in Västerås, Sweden
 
 ---
-
-> *"The best way to predict the future is to create it."* – Alan Kay
 
 **Open to collaborations, internships, and full-time opportunities in AI/Software Development!**
