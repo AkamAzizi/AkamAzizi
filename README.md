@@ -1,6 +1,6 @@
 # Hi, I'm Akam Azizi!
 
-**Applied AI Student | Software Developer | Problem Solver**
+**Applied AI  | Software Developer | Problem Solver**
 
 Welcome to my GitHub! I'm a third-year Applied AI student at Mälardalens University with a passion for building innovative tech solutions that solve real-world problems. I specialize in Python development and have hands-on experience across the full development stack.
 
