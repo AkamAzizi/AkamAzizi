@@ -99,12 +99,6 @@ Full-stack AI-assisted booking and request platform for tattoo artists, built wi
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkamAzizi&layout=compact&theme=dark)
-
----
-
 ## Portfolio & Contact
 
 - Portfolio: https://AkamAzizi.github.io
