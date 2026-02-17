@@ -13,7 +13,6 @@ I work at the intersection of **AI, backend systems, and product development**, 
 
 - Full-stack developer at an AI startup working on multi-agent content systems
 - Building AI automation tools for real business use-cases
-- Mentor at Hello World! teaching programming to students
 
 ---
 
@@ -48,19 +47,40 @@ Vercel • Railway • Git • GitHub Actions
 
 ---
 
-## Featured Projects
+## Featured Projects (Private)
 
-### AI & Multi-Agent Systems
+These are flagship systems I’m building. The repositories are private, but I can share demos or walkthroughs on request.
 
-**Multi-Agent CAD Automation (Private Client Project)**  
-AI pipeline that analyzes CAD assemblies and automatically generates manufacturing-ready 2D drawings using FreeCAD, Python, and structured agent orchestration.
+### 1) AI Document Assistant (RAG)
+**Repo (private):** https://github.com/AkamAzizi/ai-knowledge-assistant  
+A document intelligence assistant that answers questions across internal PDFs/notes using **RAG** (retrieval + grounded generation).  
+**Highlights:**
+- Semantic chunking + embeddings + retrieval
+- Source-grounded answers (citations / context)
+- Designed for real workflows (upload → query → feedback)
+**Tech:** Python, FastAPI, embeddings, vector database, LLMs  
+**Status:** Private — demo available on request
 
-**AI Resume Analyzer**  
-FastAPI + React application that evaluates resumes against job descriptions using LLMs, keyword extraction, and match scoring.  
-https://github.com/AkamAzizi/ai-resume-analyzer
+### 2) Offert AI (Proposal / Quote Generator)
+**Repo (private):** https://github.com/AkamAzizi/Offert-Ai  
+An AI-powered quote/proposal generator that turns structured inputs into consistent customer-ready outputs.  
+**Highlights:**
+- Template-driven output (PDF / Word-ready structure)
+- Guardrails for tone and formatting
+- Fast iteration for different industries (construction, services, consulting)
+**Tech:** (Add your stack: e.g., Next.js, Node, Python, PDF generation, LLMs)  
+**Status:** Private — demo available on request
 
-**Tattoo Request SaaS**  
-Full-stack AI-assisted booking and request platform for tattoo artists, built with modern web stack and automated workflows.
+### 3) CAD-MVP (Multi-Agent CAD Automation)
+**Repo (private):** https://github.com/AkamAzizi/CAD-MVP  
+Multi-agent pipeline for CAD automation: analyzes assemblies and supports engineering outputs and downstream documentation workflows.  
+**Highlights:**
+- CAD parsing + structured reasoning
+- Multi-agent orchestration for complex tasks
+- Focus on reliability and repeatable outputs
+**Tech:** Python, FreeCAD, multi-agent orchestration, (add storage/UI if relevant)  
+**Status:** Private — demo available on request
+
 
 ---
 
@@ -102,15 +122,6 @@ Full-stack AI-assisted booking and request platform for tattoo artists, built wi
 - Portfolio: https://AkamAzizi.github.io
 - LinkedIn: https://www.linkedin.com/in/akam-azizi-932897213/
 - Email: akam.azizi33@gmail.com
-
----
-
-## Fun Facts
-
-- Brazilian Jiu-Jitsu practitioner (building a BJJ training app)
-- Mentor teaching programming to young students
-- Startup and AI automation enthusiast
-- Based in Sweden
 
 ---
 
