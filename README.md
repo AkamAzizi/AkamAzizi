@@ -11,7 +11,6 @@ I work at the intersection of **AI, backend systems, and product development**, 
 
 ## What I’m Doing
 
-- Applied AI student at Mälardalens University (final year)
 - Full-stack developer at an AI startup working on multi-agent content systems
 - Building AI automation tools for real business use-cases
 - Mentor at Hello World! teaching programming to students
