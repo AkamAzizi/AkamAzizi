@@ -43,7 +43,7 @@ FastAPI • Flask • Next.js • React • React Native
 Supabase • PostgreSQL • n8n • Docker  
 
 ### Cloud & Dev Tools
-Vercel • Railway • Git • GitHub Actions • GCP (Learning)  
+Vercel • Railway • Git • GitHub Actions • GCP • AWS (Learning)  
 
 ---
 
