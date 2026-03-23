@@ -11,7 +11,7 @@ I work at the intersection of **AI, backend systems, and product development**, 
 
 ## What I’m Doing
 
-- Full-stack developer at an AI startup working on multi-agent content systems
+- AI developer @ OMAI working on multi-agent systems, RAG.
 - Building AI automation tools for real business use-cases
 
 ---
