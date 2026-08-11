@@ -27,14 +27,13 @@ I design and ship production AI systems: RAG pipelines, multi-agent workflows, a
 
 **Data:** PostgreSQL · Supabase · SQLite
 
-**Cloud & ops:** Docker · Google Cloud Run · Vercel · GitHub Actions
+**Cloud & ops:** Docker · GCP · Google Cloud Run · Azure · Vercel · GitHub Actions
 
 ---
 
 ## Featured projects
 
 ### [AI Opportunity Analyzer](https://github.com/AkamAzizi/ai-opportunity-analyzer)
-**Live:** [demo](https://ai-opportunity-analyzer-frontend-167158120787.europe-west1.run.app)
 
 URL → company profile → AI opportunities → prioritization → architecture/impact report.
 
