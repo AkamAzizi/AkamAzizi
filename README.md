@@ -1,193 +1,125 @@
 # Hi, I'm Akam Azizi
 
-**AI Engineer | AI Systems Developer | Multi-Agent Architect**
+**AI Engineer @ OMAI** — LLMs, RAG & agents for real business problems.
 
-I design and build **production-grade AI systems** — from LLM-powered applications to multi-agent architectures and decision-support tools.
+The most valuable AI isn't the smartest AI. It's the AI people actually adopt.
 
-Currently working as an **AI Developer at OMAI**, delivering real-world AI solutions for clients across industries.
-
----
-
-##  What I Do
-
-* Design and deploy **LLM-powered systems (RAG, multi-agent, automation)**
-* Build **end-to-end AI products** from idea → architecture → production
-* Translate business problems into **scalable AI solutions**
-* Focus on **real-world impact, not just prototypes**
+I design and ship production AI systems: RAG pipelines, multi-agent workflows, and full-stack products from idea → architecture → deploy. Currently an **AI Developer at [OMAI](https://omai.dev)**, building client solutions in Stockholm.
 
 ---
 
-##  Core Expertise
+## What I focus on
 
-* Multi-Agent Systems & AI Orchestration
-* Retrieval-Augmented Generation (RAG)
-* AI System Architecture & Design
-* LLM Integration in Production Systems
-* Workflow Automation & Backend APIs
-* AI for Business & Decision Support
+- **Adoption over demos** — systems that are useful, maintainable, and trusted in daily work
+- **LLM apps in production** — RAG, multi-agent orchestration, structured outputs, guardrails
+- **End-to-end delivery** — FastAPI/Next.js products, cloud deploy, CI, real client feedback loops
+- **Clear tradeoffs** — retrieval quality, cost, latency, and human-in-the-loop where it matters
 
 ---
 
-## 🛠 Tech Stack
+## Tech stack
 
-### Languages
+**Languages:** Python · TypeScript · JavaScript · SQL
 
-Python • TypeScript • JavaScript • SQL
+**AI:** OpenAI / Azure OpenAI · Claude · RAG · embeddings · pgvector · FAISS · multi-agent orchestration · n8n · structured outputs
 
-### AI & Systems
+**Backend & web:** FastAPI · Next.js · React · Node · REST APIs
 
-LLMs (OpenAI, Claude, Gemini)
-RAG Pipelines & Retrieval Systems
-Embeddings & Vector Databases (pgvector, FAISS)
-Prompt Engineering & Structured Outputs
-Multi-Agent Architectures
+**Data:** PostgreSQL · Supabase · SQLite
 
-### Frameworks & Backend
-
-FastAPI • Flask • Next.js • React
-Node.js • REST APIs
-
-### Data & Storage
-
-PostgreSQL • Supabase • SQLite
-
-### Cloud & Infra
-
-Google Cloud (Cloud Run, BigQuery)
-Docker (containerized services)
-Vercel • Railway
-GitHub Actions (CI/CD)
+**Cloud & ops:** Docker · Google Cloud Run · Vercel · GitHub Actions
 
 ---
 
-##  Featured Projects
+## Featured projects
 
-These projects represent **production-level AI systems and architectures**.
+### [AI Opportunity Analyzer](https://github.com/AkamAzizi/ai-opportunity-analyzer)
+**Live:** [demo](https://ai-opportunity-analyzer-frontend-167158120787.europe-west1.run.app)
 
----
+URL → company profile → AI opportunities → prioritization → architecture/impact report.
 
-###  AI Opportunity Analyzer (Production AI System)
+- Next.js + FastAPI, containerized on **GCP Cloud Run**
+- Multi-agent pipeline with structured handoffs (Pydantic)
+- Security-aware (SSRF, rate limits, prompt-injection delimiters)
 
-🔗 Live Demo: https://ai-opportunity-analyzer-frontend-167158120787.europe-west1.run.app
-
-AI system that analyzes companies and generates **AI opportunities, prioritization, and implementation strategies**.
-
-**Highlights:**
-
-* Full-stack system (**Next.js + FastAPI**)
-* Deployed as **containerized microservices on Google Cloud Run (frontend + backend)**
-* LLM-driven pipelines simulating **consultant-style analysis**
-* Outputs structured insights: **ROI, quick wins, strategic initiatives**
-
-**Tech:** Python, FastAPI, Next.js, Docker, GCP Cloud Run, LLMs
+**Stack:** Python, FastAPI, Next.js, Docker, GCP, LLMs
 
 ---
 
-###  CAD Assembly Analysis (Multi-Agent System)
+### [CAD Assembly Analysis](https://github.com/AkamAzizi/CAD-MVP)
 
-🔗 Repo: https://github.com/AkamAzizi/CAD-MVP
+Multi-agent system for STEP assemblies → analysis, TechDraw/BOM-style engineering workflows.
 
-Multi-agent AI system for analyzing CAD assemblies (STEP files) and supporting engineering workflows.
+- Structured CAD parsing + LLM reasoning
+- Multi-agent orchestration with fallbacks
+- Built with domain collaboration (real engineering constraints)
 
-**Highlights:**
-
-* Combines **structured parsing + LLM reasoning**
-* Multi-agent orchestration for complex engineering tasks
-* Natural language querying of assemblies
-* Real-world collaboration with engineering domain
-
-**Tech:** Python, FreeCAD, multi-agent systems, LLMs
+**Stack:** Python, FreeCAD, multi-agent systems, LLMs
 
 ---
 
-###  AI Knowledge Engine (AI Architecture System)
+### [AI Knowledge Engine](https://github.com/AkamAzizi/ai-knowledge-engine)
 
-🔗 Repo: https://github.com/AkamAzizi/ai-knowledge-engine
+Self-compounding knowledge base maintained by LLM agents — a **compile-once** alternative to classic query-time RAG.
 
-A system for building **self-improving knowledge bases using LLM agents**.
+- Obsidian + `AGENTS.md` workflows (ingest / query / lint)
+- Typed knowledge graph + append-only audit log
+- CI frontmatter lint on every change
 
-**Highlights:**
-
-* Explores alternatives to RAG (knowledge graphs, compile-once systems)
-* Model-agnostic architecture
-* Includes evaluation frameworks for AI system design
-* Focus on **reusable AI architecture patterns**
-
-**Tech:** Python, LLMs, embeddings, knowledge systems
+**Stack:** Python, LLMs, Markdown knowledge systems, GitHub Actions
 
 ---
 
-###  AI Systems Design Framework (Claude Code + Obsidian)
+### [AI Startup Advisor](https://github.com/AkamAzizi/ai-startup-advisor)
 
-Internal framework for designing and structuring AI systems.
+Multi-agent RAG advisor (finance / marketing / fundraising) with workshop generation.
 
-**Highlights:**
+- FastAPI + pgvector (or in-memory) retrieval
+- Structured JSON outputs + confidence scoring
+- Trace IDs and structured logs (latency, chunks, similarity)
 
-* Structured workflows using **Claude Code + knowledge systems**
-* Reusable templates for **RAG, multi-agent systems, and LLM apps**
-* Used to accelerate **solution design in real projects**
-
----
-
-##  Private / Client-Focused Systems
-
-These systems are under active development or built for real-world use cases.
-Demos available on request.
+**Stack:** Python, FastAPI, OpenAI, pgvector / Supabase
 
 ---
 
-### AI Document Assistant (RAG)
+### [AI Knowledge Assistant](https://github.com/AkamAzizi/ai-knowledge-assistant)
 
-Document intelligence system for querying internal knowledge bases.
+Privacy-first document Q&A with citations.
 
-* Semantic chunking + embeddings + retrieval
-* Source-grounded answers with citations
-* Designed for real workflows (upload → query → refine)
+- Local embeddings (sentence-transformers) + FAISS
+- Planning → retrieval → analysis → verification pipeline
+- Source-grounded answers (`[S1]`-style citations)
 
----
-
-### Offert AI (Proposal Generator)
-
-AI-powered system for generating structured proposals and quotes.
-
-* Template-driven outputs (consulting, services, etc.)
-* Tone and formatting guardrails
-* Designed for business workflows
+**Stack:** Python, FastAPI, Next.js, FAISS, optional OpenAI
 
 ---
 
-##  Other Projects
+## Client / private systems
 
-### Algorithms & AI
+Demos on request.
 
-* Sudoku Solver
-* Knapsack Solver
-* MiniMax Mancala AI
-
-### Full-Stack Apps
-
-* Barbershop Queue Management (Flask)
-* Task Manager (Tkinter)
-* Flappy Bird Clone (Pygame)
-* Snake Game
+| System | What it does |
+| --- | --- |
+| **Yourex / Product Care (OMAI)** | Full-stack product data workflows: search, enrichment, vehicle fitment, OE/OEM, batch processing |
+| **Digital Platform (OMAI)** | Next.js + TypeScript + Storyblok CMS migration (WordPress → component CMS) |
+| **SoMe Software** | Multi-agent content SaaS (n8n + LLM + RAG) — ~50% faster content creation |
+| **Offert AI** | Quote/proposal generation with structured outputs + deterministic pricing |
 
 ---
 
-##  Currently Building
+## Background
 
-* Production-ready multi-agent AI systems
-* AI-driven SaaS products
-* LLM-powered business tools
-* Client-facing AI solutions
-
----
-
-##  Contact
-
-🌐 Portfolio: https://AkamAzizi.github.io
-💼 LinkedIn: https://www.linkedin.com/in/akam-azizi-932897213/
-📧 Email: [akam.azizi33@gmail.com](mailto:akam.azizi33@gmail.com)
+- **AI Developer** — OMAI (Apr 2026–present), Stockholm
+- **AI Developer** — SoMe Software (Dec 2025–Mar 2026)
+- **BSc Applied AI** — Mälardalen University (2023–2026)
+- Google Cloud Digital Leader (2026)
 
 ---
 
-**Open to consulting, collaborations, and AI engineering opportunities.**
+## Contact
+
+- Portfolio: [AkamAzizi.github.io](https://AkamAzizi.github.io)
+- LinkedIn: [akam-azizi-932897213](https://www.linkedin.com/in/akam-azizi-932897213/)
+- Email: [akam.azizi33@gmail.com](mailto:akam.azizi33@gmail.com)
+
+Open to **AI engineering roles**, collaborations, and selected consulting in Stockholm / hybrid.
