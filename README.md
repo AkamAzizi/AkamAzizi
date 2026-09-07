@@ -31,8 +31,6 @@ I design and ship production AI systems: RAG pipelines, multi-agent workflows, a
 
 ---
 
-## Featured projects
-
 ## Currently building
 
 ### [Search Relevance Benchmark](https://github.com/AkamAzizi/search-relevance-benchmark)
@@ -46,6 +44,10 @@ query set with the methodology published alongside the numbers.
 
 **Status:** ingestion complete; enrichment, retrieval and evaluation in progress.
 **Stack:** Python 3.13, SQLite, uv, pytest
+
+
+## Featured projects
+
 
 ### [AI Opportunity Analyzer](https://github.com/AkamAzizi/ai-opportunity-analyzer)
 
