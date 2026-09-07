@@ -45,6 +45,21 @@ query set with the methodology published alongside the numbers.
 **Status:** ingestion complete; enrichment, retrieval and evaluation in progress.
 **Stack:** Python 3.13, SQLite, uv, pytest
 
+### [Lifelines — AI life-story companion](https://github.com/AkamAzizi/AIforLife)
+
+Captures a person's life story through gentle AI interviews, then turns the
+conversations into a shareable book of chapters that family can read and add to.
+
+- Adaptive interviewer with **session memory**: people, places, timeline and open
+  threads persist across conversations, so each session picks up where the last ended
+- Two-stage chapter writer (outline → per-chapter prose) with edit locks, family
+  memories woven in, and one-transaction regeneration that never loses user content
+- **Local-first LLM** on Ollama (Gemma 4) with a one-line switch to Gemini, Claude or
+  Vercel AI Gateway; EN + SV; invite links, public share pages, Markdown/PDF export
+- Built with custom agentic subagent-driven workflow: 13 reviewed phases, 47 tests,
+  headless end-to-end walkthroughs against the real model
+
+**Stack:** TypeScript, Next.js 16, AI SDK, Drizzle + PostgreSQL, Better Auth, Ollama
 
 ## Featured projects
 
