@@ -33,6 +33,20 @@ I design and ship production AI systems: RAG pipelines, multi-agent workflows, a
 
 ## Featured projects
 
+## Currently building
+
+### [Search Relevance Benchmark](https://github.com/AkamAzizi/search-relevance-benchmark)
+Measuring e-commerce search quality instead of demoing it: independent search over a
+storefront's own catalog, scored against that storefront's native search on a fixed
+query set with the methodology published alongside the numbers.
+- Pre-registered hypotheses, pooled blind qrels, nDCG@10 / Recall@20 / correct-abstention
+- Bootstrapped paired per-query differences, effect sizes over significance claims
+- Ingestion shipped: dual-crawl consistency verification, two-hash versioning, 62 tests, zero runtime deps
+- Rate-limited and robots-compliant by design; named comparisons disclosed privately first
+
+**Status:** ingestion complete; enrichment, retrieval and evaluation in progress.
+**Stack:** Python 3.13, SQLite, uv, pytest
+
 ### [AI Opportunity Analyzer](https://github.com/AkamAzizi/ai-opportunity-analyzer)
 
 URL → company profile → AI opportunities → prioritization → architecture/impact report.
