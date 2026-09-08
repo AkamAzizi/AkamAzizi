@@ -64,17 +64,6 @@ query set with the methodology published alongside the numbers.
 **Status:** ingestion complete; enrichment, retrieval and evaluation in progress.
 **Stack:** Python 3.13, SQLite, uv, pytest
 
-
-### [AI Opportunity Analyzer](https://github.com/AkamAzizi/ai-opportunity-analyzer)
-
-URL → company profile → AI opportunities → prioritization → architecture/impact report.
-
-- Next.js + FastAPI, containerized on **GCP Cloud Run**
-- Multi-agent pipeline with structured handoffs (Pydantic)
-- Security-aware (SSRF, rate limits, prompt-injection delimiters)
-
-**Stack:** Python, FastAPI, Next.js, Docker, GCP, LLMs
-
 ---
 
 ### [CAD Assembly Analysis](https://github.com/AkamAzizi/CAD-MVP)
@@ -101,7 +90,7 @@ Self-compounding knowledge base maintained by LLM agents — a **compile-once** 
 
 ---
 
-### [AI Startup Advisor](https://github.com/AkamAzizi/ai-startup-advisor)
+### [AGENT Startup Advisor](https://github.com/AkamAzizi/ai-startup-advisor)
 
 Multi-agent RAG advisor (finance / marketing / fundraising) with workshop generation.
 
@@ -110,18 +99,6 @@ Multi-agent RAG advisor (finance / marketing / fundraising) with workshop genera
 - Trace IDs and structured logs (latency, chunks, similarity)
 
 **Stack:** Python, FastAPI, OpenAI, pgvector / Supabase
-
----
-
-### [AI Knowledge Assistant](https://github.com/AkamAzizi/ai-knowledge-assistant)
-
-Privacy-first document Q&A with citations.
-
-- Local embeddings (sentence-transformers) + FAISS
-- Planning → retrieval → analysis → verification pipeline
-- Source-grounded answers (`[S1]`-style citations)
-
-**Stack:** Python, FastAPI, Next.js, FAISS, optional OpenAI
 
 ---
 
