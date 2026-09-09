@@ -148,5 +148,3 @@ Demos on request.
 - Portfolio: [AkamAzizi.github.io](https://AkamAzizi.github.io)
 - LinkedIn: [akam-azizi-932897213](https://www.linkedin.com/in/akam-azizi-932897213/)
 - Email: [akam.azizi33@gmail.com](mailto:akam.azizi33@gmail.com)
-
-Open to **AI engineering roles**, collaborations, and selected consulting in Stockholm / hybrid.
