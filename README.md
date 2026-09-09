@@ -31,38 +31,38 @@ I design and ship production AI systems: RAG pipelines, multi-agent workflows, a
 
 ---
 
-## Currently building
-
-
-### [Lifelines — AI life-story companion](https://github.com/AkamAzizi/AIforLife)
-
-Captures a person's life story through gentle AI interviews, then turns the
-conversations into a shareable book of chapters that family can read and add to.
-
-- Adaptive interviewer with **session memory**: people, places, timeline and open
-  threads persist across conversations, so each session picks up where the last ended
-- Two-stage chapter writer (outline → per-chapter prose) with edit locks, family
-  memories woven in, and one-transaction regeneration that never loses user content
-- **Local-first LLM** on Ollama (Gemma 4) with a one-line switch to Gemini, Claude or
-  Vercel AI Gateway; EN + SV; invite links, public share pages, Markdown/PDF export
-- Built with custom agentic subagent-driven workflow: 13 reviewed phases, 47 tests,
-  headless end-to-end walkthroughs against the real model
-
-**Stack:** TypeScript, Next.js 16, AI SDK, Drizzle + PostgreSQL, Better Auth, Ollama
-
 ## Featured projects
 
+### [Knowledge Compiler](https://github.com/AkamAzizi/knowledge-compiler)
+
+Self-compounding knowledge base maintained by LLM agents — a **compile-once** alternative to classic query-time RAG.
+
+- Typed page schemas, four agent workflows (ingest / query / lint / apply)
+- Append-only audit log + CI frontmatter lint on every change
+- Obsidian-friendly Markdown knowledge systems with `AGENTS.md` workflows
+
+**Stack:** Python, LLMs, Markdown knowledge systems, GitHub Actions
+
+---
+
 ### [Search Relevance Benchmark](https://github.com/AkamAzizi/search-relevance-benchmark)
-Measuring e-commerce search quality instead of demoing it: independent search over a
-storefront's own catalog, scored against that storefront's native search on a fixed
-query set with the methodology published alongside the numbers.
+
+Measuring e-commerce search quality instead of demoing it: independent search over a storefront's own catalog, scored against that storefront's native search on a fixed query set with the methodology published alongside the numbers.
+
 - Pre-registered hypotheses, pooled blind qrels, nDCG@10 / Recall@20 / correct-abstention
 - Bootstrapped paired per-query differences, effect sizes over significance claims
 - Ingestion shipped: dual-crawl consistency verification, two-hash versioning, 62 tests, zero runtime deps
-- Rate-limited and robots-compliant by design; named comparisons disclosed privately first
 
-**Status:** ingestion complete; enrichment, retrieval and evaluation in progress.
+**Status:** ingestion complete; enrichment, retrieval and evaluation in progress.  
 **Stack:** Python 3.13, SQLite, uv, pytest
+
+---
+
+### [Agent Control Station](https://github.com/AkamAzizi/agent-control-station)
+
+A local control station for scoped coding-agent reviews — plan, run, and inspect agent work with clear boundaries.
+
+**Stack:** TypeScript
 
 ---
 
@@ -78,19 +78,7 @@ Multi-agent system for STEP assemblies → analysis, TechDraw/BOM-style engineer
 
 ---
 
-### [AI Knowledge Engine](https://github.com/AkamAzizi/ai-knowledge-engine)
-
-Self-compounding knowledge base maintained by LLM agents — a **compile-once** alternative to classic query-time RAG.
-
-- Obsidian + `AGENTS.md` workflows (ingest / query / lint)
-- Typed knowledge graph + append-only audit log
-- CI frontmatter lint on every change
-
-**Stack:** Python, LLMs, Markdown knowledge systems, GitHub Actions
-
----
-
-### [AGENT Startup Advisor](https://github.com/AkamAzizi/ai-startup-advisor)
+### [Founder Brief](https://github.com/AkamAzizi/founder-brief)
 
 Multi-agent RAG advisor (finance / marketing / fundraising) with workshop generation.
 
@@ -99,6 +87,28 @@ Multi-agent RAG advisor (finance / marketing / fundraising) with workshop genera
 - Trace IDs and structured logs (latency, chunks, similarity)
 
 **Stack:** Python, FastAPI, OpenAI, pgvector / Supabase
+
+---
+
+### [Market Brief](https://github.com/AkamAzizi/market-brief)
+
+Typed opportunity analysis for early-stage ideas — structured scoring instead of vibes.
+
+**Stack:** TypeScript
+
+---
+
+### [Workspace QA](https://github.com/AkamAzizi/workspace-qa)
+
+Privacy-safe document upload + RAG: local embeddings, optional LLM answers with citations, session-scoped temp storage.
+
+**Stack:** Python, FastAPI, Next.js, FAISS, sentence-transformers
+
+---
+
+## Side project (quiet)
+
+[Lifelines waitlist](https://github.com/AkamAzizi/lifelines-waitlist) — public landing for a private learning MVP around structured interviews → memory → chapters. Main app stays private.
 
 ---
 
