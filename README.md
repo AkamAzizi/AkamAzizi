@@ -31,6 +31,20 @@ I design and ship production AI systems: RAG pipelines, multi-agent workflows, a
 
 ---
 
+## Currently building / learning
+
+### [Lifelines](https://github.com/AkamAzizi/lifelines-waitlist)
+
+Private learning MVP: structured interviews → memory → chapters. Public waitlist only; main app stays private.
+
+- Adaptive interviewer with session memory across conversations
+- Two-stage chapter writer with edit locks and family memories woven in
+- Local-first LLM (Ollama) with a one-line switch to cloud providers; EN + SV
+
+**Stack:** TypeScript, Next.js, AI SDK, Drizzle + PostgreSQL, Better Auth, Ollama
+
+---
+
 ## Featured projects
 
 ### [Knowledge Compiler](https://github.com/AkamAzizi/knowledge-compiler)
@@ -103,12 +117,6 @@ Typed opportunity analysis for early-stage ideas — structured scoring instead 
 Privacy-safe document upload + RAG: local embeddings, optional LLM answers with citations, session-scoped temp storage.
 
 **Stack:** Python, FastAPI, Next.js, FAISS, sentence-transformers
-
----
-
-## Side project (quiet)
-
-[Lifelines waitlist](https://github.com/AkamAzizi/lifelines-waitlist) — public landing for a private learning MVP around structured interviews → memory → chapters. Main app stays private.
 
 ---
 
