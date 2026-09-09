@@ -35,7 +35,7 @@ I design and ship production AI systems: RAG pipelines, multi-agent workflows, a
 
 ### [Lifelines](https://github.com/AkamAzizi/lifelines-waitlist)
 
-Private learning MVP: structured interviews → memory → chapters. Public waitlist only; main app stays private.
+Private learning MVP: structured interviews → memory → chapters.
 
 - Adaptive interviewer with session memory across conversations
 - Two-stage chapter writer with edit locks and family memories woven in
