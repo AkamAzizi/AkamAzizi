@@ -31,7 +31,7 @@ I design and ship production AI systems: RAG pipelines, multi-agent workflows, a
 
 ---
 
-## Currently building / learning
+## Currently building
 
 ### [Lifelines](https://www.linkedin.com/in/akam-azizi-932897213/)
 
