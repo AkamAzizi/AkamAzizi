@@ -40,7 +40,7 @@ Private learning MVP: structured interviews → memory → chapters.
 - Adaptive interviewer with session memory across conversations
 - Two-stage chapter writer with edit locks and family memories woven in
 - Local-first LLM (Ollama) with a one-line switch to cloud providers; EN + SV
-Contact me for demo or more information
+- Contact me for demo or more information
 
 **Stack:** TypeScript, Next.js, AI SDK, Drizzle + PostgreSQL, Better Auth, Ollama
 
